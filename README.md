@@ -16,3 +16,5 @@ ATTENTION : Cette manipulation (« restore backup as image » envoyé) peut entr
 la déclaration de l’angle de montage du robot, PROG SELECT, les PAYLOADS, Positions de référence, Space fonction, etc..)
 
 Je reste à votre disposition pour tous renseignements complémentaires.
+
+https://fanuceur-my.sharepoint.com/:f:/g/personal/karl_bodevin_fanuc_eu/Eo66GpI20HRNhDefEMFELtABQcuN2ef8BbyH7E7Lt2kkmg?e=rzDgS4

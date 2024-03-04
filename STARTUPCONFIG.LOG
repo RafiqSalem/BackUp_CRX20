@@ -1,0 +1,12 @@
+
+
+*** 03/04/2024 - 08:45:22 Booting with STARTUPCONFIG.XML present *** 
+[startupconfig]: Process stage 1 startupconfig.xml
+[startupconfig]: Restore image from UD1:\
+[startupconfig]: DCS Params are restored if they are different
+[startupconfig]: valid key expires  03/04/2024 - 09:44:46 
+[startupconfig:loadimage]:    UD1:\ 
+[startupconfig]: rename UD1:\STARTUPCONFIG.XML to UD1:\OLDSTARTUPCONFIG.XML status 0x0 
+[startupconfig]: Process stage 2 startupconfig.xml
+[startupconfig]: Process stage 3 startupconfig.xml
+[startupconfig]: Process stage 4 startupconfig.xml
